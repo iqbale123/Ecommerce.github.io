@@ -20,7 +20,7 @@
 <div class="container">
     <div class="content-head">
         <h2 style="text-align:center; font-weight: bold">Ecommerce</h2>
-        <p style="text-align: center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam accusamus eos quibusdam, esse voluptates voluptatibus id corporis facere neque amet alias molestias itaque ex porro architecto blanditiis distinctio maxime laboriosam.</h2>
+        <p style="text-align: center">Perdagangan elektronik adalah penyebaran, pembelian, penjualan, pemasaran barang dan jasa melalui sistem elektronik seperti internet, televisi, dan jaringan komputer lainnya.</h2>
     </div>
     <h2 class="header text-center">Featured Products</h2>
     <!-- start products row -->
